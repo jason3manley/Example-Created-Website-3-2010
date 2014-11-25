@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+
+*
+{
+	margin: 0;
+}
+
+body
+{
+    	background-image:url(images/x1.png)
+		
+}
+
+#Holder
+{
+	
+}
+
+#Header
+{
+	float:left;
+	margin-top:60px;
+	margin-left:45px;
+}
+
+#Ad1
+{
+ float:left;
+ margin-left:200px;
+ margin-top:40px;
+}
+
+#Ad2
+{
+ float:left;
+ margin-left:75px;
+ margin-top:40px;
+}
+
+#Video
+{
+	float:left;
+	margin-top:40px;
+	margin-left:50px;
+}
+
+#Video2
+{
+    float:left;
+	margin-left:20px;
+	margin-top:50px;	
+}
+
+#x2
+{
+   float:left;
+   margin-left:70px;
+   margin-top: 60px;	
+}
+
+#Sidebar1
+{
+	float:left;
+	margin-left:-210px;
+	margin-top:140px;
+	
+}
+
+#Search
+{
+   float:left;
+   margin-left:1300px;
+   margin-top:-60px;	
+}
+
+#Footer
+{
+	
+}
